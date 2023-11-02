@@ -11,13 +11,14 @@ This project is a simple Vanilla JS project that demonstrates the following:
 2. Implemented an intuitive search feature enabling users to easily find movies, providing essential information like cast, synopsis, and ratings, enhancing the user experience.
 3. Created a genre-based movie recommendation system within the app, allowing users to explore and discover movies based on their preferred genres, delivering personalized movie suggestions.
 
+
 ## Demo Images
 
-![Tvflix-genre](https://tvflix-seven.vercel.app/)
+![Tvflix-genre](https://github.com/mrchetan005/Tvflix/assets/112335175/d930cf46-f7fc-42f3-9227-c567eefa6e03)
 
-![image](https://tvflix-seven.vercel.app/)
+![image](https://github.com/mrchetan005/Tvflix/assets/112335175/931af4a3-49fd-4303-bc5a-fcb46021eb3b)
 
-![image](https://tvflix-seven.vercel.app/)
+![image](https://github.com/mrchetan005/Tvflix/assets/112335175/1be4c536-1ba5-4fff-8222-2cdf0ff95159)
 
 ## Live Application URL
 
